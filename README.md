@@ -1,4 +1,4 @@
-# Basic HTML Form
+# Basic HTML Selectors
 Tutorial from the Udemy course Colt Steele - The Web Developer Bootcamp
 
 # Skills Learned 
